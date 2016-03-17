@@ -1,0 +1,33 @@
+body  {
+font-family: helvetica, arial, helveticy, sans-serif;
+colour: rgb(50,50,50) ;
+fot-size: 1.5em;
+}
+
+#wrapper {
+    border: 1px solid black; 
+    width: 270px;
+    position: relative;
+    top: 50px;
+    left: 120px;
+    
+}
+
+#wrapper{
+    border: 1px solid black;
+    width: 270px;
+    position: absolute;
+    buttom: 20px
+        right: 120px;
+}
+
+#box{
+border: 1px solid black;
+  margin: 50px;
+  padding-top: 30px;
+  padding-right; 40px;
+  padding-bottom; 20px;
+  padding-left; 30px;
+  width: 80px; 
+  
+}
